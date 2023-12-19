@@ -36,6 +36,7 @@ Contain the waste classification model in tflite format
 - pandas
 - matplotlib
 - tensorflow
+- tensorflow_hub
 - keras
 - sklearn
 - zipfile
