@@ -18,7 +18,7 @@ Repository of Machine Learning Development for Bangkit Capstone Project CH2-PS49
 
 - Notebook for training the sentence encoder model that takes recycling article titles in Indonesia, generates the encoding, and computes the similarity of each title with the others
 - The training uses inputs consisting of article titles in Indonesian, and the labels are the results of encoding from the translation of these titles into English, which was generated earlier using the sentence_encoder_USE_clean notebook.
-- The trained model can generate encodings from recycling article titles in Indonesia that are similar to the encodings produced by the Universal Sentence Encoder from their English translation
+- The trained model can generate encodings of recycling article titles in Indonesia that are similar to the encodings produced by the Universal Sentence Encoder from their English translation
 
 ## Folder
 
