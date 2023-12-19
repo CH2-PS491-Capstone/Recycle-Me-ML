@@ -12,7 +12,7 @@ Repository of Machine Learning Development for Bangkit Capstone Project CH2-PS49
 ### sentence_encoder_USE_clean
 
 - Notebook for generating the encoding of recycling article titles from the English translation of the titles
-- The encoding is done using the Universal Sentence Encoder, which is a model for generating encodings from English sentences
+- The encoding is generated using the Universal Sentence Encoder, which is a model for generating encodings from English sentences
 
 ### recycling_article_title_encoder_model
 
