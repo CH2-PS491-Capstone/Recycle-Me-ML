@@ -22,7 +22,7 @@ Repository of Machine Learning Development for Bangkit Capstone Project CH2-PS49
 
 ## Folder
 
-### Dataset
+### dataset
 
 Contains datasets used for training the model. This folder also contains the recycling article dataset with computed similar titles.
 
